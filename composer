@@ -1,0 +1,239 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+    65540       0       0          4  ?              0   Jun 10 System
+    65644       0       0        108  ?              0   Jun 10 Registry
+    65936       0       0        400  ?              0   Jun 10 C:\Windows\System32\smss.exe
+    66164       0       0        628  ?              0   Jun 10 C:\Windows\System32\csrss.exe
+    66292       0       0        756  ?              0   Jun 10 C:\Windows\System32\wininit.exe
+    66364       0       0        828  ?              0   Jun 10 C:\Windows\System32\services.exe
+    66372       0       0        836  ?              0   Jun 10 C:\Windows\System32\lsass.exe
+    66504       0       0        968  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    66528       0       0        992  ?              0   Jun 10 C:\Windows\System32\fontdrvhost.exe
+    66000       0       0        464  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    66440       0       0        904  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    66680       0       0       1144  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    66756       0       0       1220  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    66776       0       0       1240  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    66780       0       0       1244  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    66880       0       0       1344  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    66920       0       0       1384  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    66956       0       0       1420  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67068       0       0       1532  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67132       0       0       1596  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67216       0       0       1680  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67316       0       0       1780  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67348       0       0       1812  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67468       0       0       1932  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67476       0       0       1940  ?              0   Jun 10 C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_47917a79b8c7fd22\Display.NvContainer\NVDisplay.Container.exe
+    67488       0       0       1952  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67516       0       0       1980  ?              0   Jun 10 C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe
+    66288       0       0        752  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    66844       0       0       1308  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67588       0       0       2052  ?              0   Jun 10 C:\Windows\System32\DriverStore\FileRepository\amdfendr.inf_amd64_5f2cd636dbc40dd2\amdfendrsr.exe
+    67596       0       0       2060  ?              0   Jun 10 C:\Windows\System32\DriverStore\FileRepository\u0407052.inf_amd64_84d15514ad17ffa0\B406619\atiesrxx.exe
+    67708       0       0       2172  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67804       0       0       2268  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67812       0       0       2276  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67884       0       0       2348  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67896       0       0       2360  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67936       0       0       2400  ?              0   Jun 10 MemCompression
+    68080       0       0       2544  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    68528       0       0       2992  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    68512       0       0       2976  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    68480       0       0       2944  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    68620       0       0       3084  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    68720       0       0       3184  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    68728       0       0       3192  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    68736       0       0       3200  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    68948       0       0       3412  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69036       0       0       3500  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69120       0       0       3584  ?              0   Jun 10 C:\Windows\System32\wlanext.exe
+    69140       0       0       3604  ?              0   Jun 10 C:\Windows\System32\spoolsv.exe
+    69148       0       0       3612  ?              0   Jun 10 C:\Windows\System32\conhost.exe
+    69216       0       0       3680  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69292       0       0       3756  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69460       0       0       3924  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69468       0       0       3932  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69476       0       0       3940  ?              0   Jun 10 C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+    69496       0       0       3960  ?              0   Jun 10 C:\Program Files\Bonjour\mDNSResponder.exe
+    69504       0       0       3968  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69560       0       0       4024  ?              0   Jun 10 C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_c2ac023763d5d3ad\OneApp.IGCC.WinService.exe
+    68368       0       0       2832  ?              0   Jun 10 C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_af50fdb80983f7bc\jhi_service.exe
+    68772       0       0       3236  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69352       0       0       3816  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69640       0       0       4104  ?              0   Jun 10 C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25030.2-0\MpDefenderCoreService.exe
+    69700       0       0       4164  ?              0   Jun 10 C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+    69716       0       0       4180  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69732       0       0       4196  ?              0   Jun 10 C:\Windows\System32\Locator.exe
+    69744       0       0       4208  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69764       0       0       4228  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69820       0       0       4284  ?              0   Jun 10 C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25030.2-0\MsMpEng.exe
+    69828       0       0       4292  ?              0   Jun 10 C:\Windows\System32\wbem\WmiApSrv.exe
+    69848       0       0       4312  ?              0   Jun 10 C:\Windows\System32\DriverStore\FileRepository\mewmiprov.inf_amd64_d51901c26227fb29\WMIRegistrationService.exe
+    69856       0       0       4320  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    70104       0       0       4568  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    70424       0       0       4888  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    70572       0       0       5036  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    70892       0       0       5356  ?              0   Jun 10 C:\Program Files\WindowsApps\Microsoft.GamingServices_28.100.8001.0_x64__8wekyb3d8bbwe\gamingservices.exe
+    70900       0       0       5364  ?              0   Jun 10 C:\Program Files\WindowsApps\Microsoft.GamingServices_28.100.8001.0_x64__8wekyb3d8bbwe\gamingservicesnet.exe
+    71120       0       0       5584  ?              0   Jun 10 C:\Windows\System32\SearchIndexer.exe
+    71936       0       0       6400  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    72092       0       0       6556  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    72588       0       0       7052  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    72416       0       0       6880  ?              0   Jun 10 C:\Windows\System32\AggregatorHost.exe
+    73048       0       0       7512  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    73056       0       0       7520  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    74044       0       0       8508  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    72880       0       0       7344  ?              0   Jun 10 C:\Windows\System32\SecurityHealthService.exe
+    69576       0       0       4040  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67248       0       0       1712  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    71856       0       0       6320  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    75808       0       0      10272  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    75848       0       0      10312  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    76776       0       0      11240  ?              0   Jun 10 C:\Program Files\Common Files\microsoft shared\OfficeSoftwareProtectionPlatform\OSPPSVC.EXE
+    78888       0       0      13352  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    67528       0       0       1992  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    68548       0       0       3012  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    79652       0       0      14116  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    66748       0       0       1212  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    70080       0       0       4544  ?              0   Jun 10 C:\Windows\System32\dllhost.exe
+    75324       0       0       9788  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    68712       0       0       3176  ?              0   Jun 10 C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25030.2-0\NisSrv.exe
+    65892       0       0        356  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    71544       0       0       6008  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    72388       0       0       6852  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    78968       0       0      13432  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69312       0       0       3776  ?              0   Jun 10 C:\Windows\System32\wbem\WmiPrvSE.exe
+    67232       0       0       1696  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    71028       0       0       5492  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    82460       0       0      16924  ?              0   Jun 10 C:\Windows\System32\csrss.exe
+    74344       0       0       8808  ?              0   Jun 10 C:\Windows\System32\winlogon.exe
+    80244       0       0      14708  ?              0   Jun 10 C:\Windows\System32\dwm.exe
+    70688       0       0       5152  ?              0   Jun 10 C:\Windows\System32\fontdrvhost.exe
+    84812       0       0      19276  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    69484       0       0       3948  ?              0   Jun 10 C:\Windows\System32\DriverStore\FileRepository\nv_dispig.inf_amd64_47917a79b8c7fd22\Display.NvContainer\NVDisplay.Container.exe
+    77016       0       0      11480  ?              0   Jun 10 C:\Windows\System32\DriverStore\FileRepository\u0407052.inf_amd64_84d15514ad17ffa0\B406619\atieclxx.exe
+    69008       0       0       3472  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    79504       0       0      13968  ?              0 10:32:11 C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+    78776       0       0      13240  ?              0 10:32:11 C:\Windows\System32\svchost.exe
+    79708       0       0      14172  ?              0 10:32:11 C:\Windows\System32\svchost.exe
+    68248       0       0       2712  ?              0 10:32:12 C:\Windows\System32\sihost.exe
+    85260       0       0      19724  ?              0 10:32:12 C:\Windows\System32\taskhostw.exe
+    67572       0       0       2036  ?              0 10:32:13 C:\Windows\explorer.exe
+    76188       0       0      10652  ?              0 10:32:14 C:\Windows\System32\svchost.exe
+    78632       0       0      13096  ?              0 10:32:15 C:\Windows\System32\ctfmon.exe
+    76980       0       0      11444  ?              0 10:32:15 C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+    75392       0       0       9856  ?              0 10:32:16 C:\Windows\System32\RuntimeBroker.exe
+    71820       0       0       6284  ?              0 10:32:17 C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+    73416       0       0       7880  ?              0 10:32:17 C:\Windows\System32\RuntimeBroker.exe
+    72976       0       0       7440  ?              0 10:32:17 C:\Windows\System32\taskhostw.exe
+    83096       0       0      17560  ?              0 10:32:20 C:\Windows\System32\RuntimeBroker.exe
+    72252       0       0       6716  ?              0 10:32:21 C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
+    76984       0       0      11448  ?              0 10:32:22 C:\Windows\System32\conhost.exe
+    72680       0       0       7144  ?              0 10:32:25 C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+    81648       0       0      16112  ?              0 10:32:29 C:\Windows\System32\SecurityHealthSystray.exe
+    74216       0       0       8680  ?              0 10:32:30 C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe
+    76020       0       0      10484  ?              0 10:32:31 C:\Users\pc\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+    68304       0       0       2768  ?              0 10:32:32 C:\Program Files (x86)\Microsoft Office\Office14\MSOSYNC.EXE
+    77096       0       0      11560  ?              0 10:32:34 C:\Program Files\AMD\CNext\CNext\RadeonSoftware.exe
+    77948       0       0      12412  ?              0 10:32:34 C:\MAMPPRO\MAMPROSysTray.exe
+    76804       0       0      11268  ?              0 10:32:35 C:\Users\pc\AppData\Local\Discord\app-1.0.9195\Discord.exe
+    75284       0       0       9748  ?              0 10:32:36 C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+    81124       0       0      15588  ?              0 10:32:36 C:\Users\pc\AppData\Local\Discord\app-1.0.9195\Discord.exe
+    81412       0       0      15876  ?              0 10:32:36 C:\Users\pc\AppData\Local\Discord\app-1.0.9195\Discord.exe
+    76364       0       0      10828  ?              0 10:32:36 C:\Users\pc\AppData\Local\Discord\app-1.0.9195\Discord.exe
+    68340       0       0       2804  ?              0 10:32:38 C:\Windows\System32\CompPkgSrv.exe
+    72240       0       0       6704  ?              0 10:32:39 C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+    76268       0       0      10732  ?              0 10:32:39 C:\Users\pc\AppData\Local\Discord\app-1.0.9195\Discord.exe
+    66872       0       0       1336  ?              0 10:32:39 C:\Windows\System32\RuntimeBroker.exe
+    68128       0       0       2592  ?              0 10:32:42 C:\Users\pc\AppData\Local\Discord\app-1.0.9195\Discord.exe
+    75788       0       0      10252  ?              0 10:32:49 C:\Program Files\AMD\CNext\CNext\cncmd.exe
+    78176       0       0      12640  ?              0 10:32:49 C:\Windows\System32\cmd.exe
+    76172       0       0      10636  ?              0 10:32:49 C:\Windows\System32\conhost.exe
+    70460       0       0       4924  ?              0 10:32:50 C:\Program Files\AMD\CNext\CNext\AMDRSServ.exe
+    85908       0       0      20372  ?              0 10:32:52 C:\Program Files\AMD\CNext\CNext\amdow.exe
+    72440       0       0       6904  ?              0 10:33:12 C:\Users\pc\AppData\Local\Microsoft\OneDrive\25.095.0518.0002\FileCoAuth.exe
+    82592       0       0      17056  ?              0 10:33:37 C:\Program Files\Google\Chrome\Application\chrome.exe
+    76684       0       0      11148  ?              0 10:33:38 C:\Program Files\Google\Chrome\Application\chrome.exe
+    67840       0       0       2304  ?              0 10:33:38 C:\Program Files\Google\Chrome\Application\chrome.exe
+    84272       0       0      18736  ?              0 10:33:38 C:\Program Files\Google\Chrome\Application\chrome.exe
+    85636       0       0      20100  ?              0 10:33:39 C:\Program Files\Google\Chrome\Application\chrome.exe
+    79816       0       0      14280  ?              0 10:33:39 C:\Program Files\Google\Chrome\Application\chrome.exe
+    68848       0       0       3312  ?              0 10:34:12 C:\Windows\System32\svchost.exe
+    85216       0       0      19680  ?              0   Jun 10 C:\Windows\System32\MoUsoCoreWorker.exe
+    81928       0       0      16392  ?              0   Jun 10 C:\Windows\System32\wbem\WmiPrvSE.exe
+    78840       0       0      13304  ?              0 10:37:36 C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+    73908       0       0       8372  ?              0 10:37:51 C:\Program Files\AMD\CNext\CNext\AMDRSSrcExt.exe
+    76600       0       0      11064  ?              0 10:41:25 C:\Program Files\Google\Chrome\Application\chrome.exe
+    75216       0       0       9680  ?              0 10:41:28 C:\Program Files\Google\Chrome\Application\chrome.exe
+    83412       0       0      17876  ?              0 10:41:28 C:\Windows\System32\audiodg.exe
+    82732       0       0      17196  ?              0 10:41:29 C:\Program Files\Google\Chrome\Application\chrome.exe
+    79672       0       0      14136  ?              0 10:42:19 C:\Windows\System32\oobe\UserOOBEBroker.exe
+    81316       0       0      15780  ?              0 10:42:27 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    73996       0       0       8460  ?              0 10:42:27 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    84488       0       0      18952  ?              0 10:42:27 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    74032       0       0       8496  ?              0 10:42:27 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    76604       0       0      11068  ?              0 10:42:28 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    85748       0       0      20212  ?              0 10:42:29 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    72036       0       0       6500  ?              0 10:42:29 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    71824       0       0       6288  ?              0 10:42:29 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    80040       0       0      14504  ?              0 10:42:29 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    81588       0       0      16052  ?              0 10:42:32 C:\Windows\System32\conhost.exe
+    80704       0       0      15168  ?              0 10:42:32 C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+    77344       0       0      11808  ?              0 10:42:35 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    81652       0       0      16116  ?              0 10:42:36 C:\Users\pc\.vscode\extensions\devsense.intelli-php-vscode-0.12.15062-win32-x64\out\server\intelliphp.ls.exe
+    66632       0       0       1096  ?              0 10:42:36 C:\Windows\System32\conhost.exe
+    73832       0       0       8296  ?              0 10:42:39 C:\laragon\bin\php\php-8.3.15-nts-Win32-vs16-x64\php.exe
+    84432       0       0      18896  ?              0 10:42:39 C:\Windows\System32\conhost.exe
+    72304       0       0       6768  ?              0 10:42:39 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    84920       0       0      19384  ?              0 10:42:41 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    70948       0       0       5412  ?              0 10:42:44 C:\Users\pc\.vscode\extensions\devsense.phptools-vscode-1.59.17466-win32-x64\out\server\devsense.php.ls.exe
+    77176       0       0      11640  ?              0 10:42:44 C:\Windows\System32\conhost.exe
+    82656       0       0      17120  ?              0 10:42:44 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    81700       0       0      16164  ?              0 10:42:51 C:\Users\pc\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    80212       0       0      14676  ?              0 10:43:11 C:\laragon\bin\php\php-8.3.15-nts-Win32-vs16-x64\php.exe
+    71324       0       0       5788  ?              0 10:43:21 C:\Windows\System32\cmd.exe
+    83888       0       0      18352  ?              0 10:43:21 C:\laragon\bin\php\php-8.3.15-nts-Win32-vs16-x64\php.exe
+    81952       0       0      16416  ?              0 10:43:55 C:\Windows\System32\dllhost.exe
+    79800       0       0      14264  ?              0 10:43:59 C:\MAMP\MAMP.exe
+    66952       0       0       1416  ?              0 10:44:03 C:\Program Files\Google\Chrome\Application\chrome.exe
+    85696       0       0      20160  ?              0 10:44:11 C:\MAMP\bin\apache\bin\httpd.exe
+    78512       0       0      12976  ?              0 10:44:11 C:\Windows\System32\conhost.exe
+    75464       0       0       9928  ?              0 10:44:17 C:\MAMP\bin\apache\bin\httpd.exe
+    73764       0       0       8228  ?              0 10:44:18 C:\MAMP\bin\mysql\bin\mysqld.exe
+    80596       0       0      15060  ?              0 10:44:21 C:\Program Files\Google\Chrome\Application\chrome.exe
+    67144       0       0       1608  ?              0 10:44:23 C:\Program Files\Google\Chrome\Application\chrome.exe
+    75028       0       0       9492  ?              0 10:45:41 C:\Program Files\Google\Chrome\Application\chrome.exe
+    85788       0       0      20252  ?              0 10:47:51 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    85792       0       0      20256  ?              0 10:47:52 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    71528       0       0       5992  ?              0 10:47:52 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    79172       0       0      13636  ?              0 10:47:52 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    76424       0       0      10888  ?              0 10:47:52 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    80736       0       0      15200  ?              0 10:47:52 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    85844       0       0      20308  ?              0 10:48:03 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    70864       0       0       5328  ?              0 10:48:03 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    71932       0       0       6396  ?              0 10:48:52 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    78804       0       0      13268  ?              0 10:48:57 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    83016       0       0      17480  ?              0 10:49:24 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    72196       0       0       6660  ?              0 11:10:22 C:\Program Files\Google\Chrome\Application\chrome.exe
+    85296       0       0      19760  ?              0 11:10:48 C:\Program Files\Google\Chrome\Application\chrome.exe
+    80152       0       0      14616  ?              0 11:11:04 C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+    85176       0       0      19640  ?              0 11:11:05 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\136.0.3240.64\msedgewebview2.exe
+    80724       0       0      15188  ?              0 11:11:05 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\136.0.3240.64\msedgewebview2.exe
+    74260       0       0       8724  ?              0 11:11:05 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\136.0.3240.64\msedgewebview2.exe
+    74420       0       0       8884  ?              0 11:11:05 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\136.0.3240.64\msedgewebview2.exe
+    71504       0       0       5968  ?              0 11:11:05 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\136.0.3240.64\msedgewebview2.exe
+    70448       0       0       4912  ?              0 11:11:05 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\136.0.3240.64\msedgewebview2.exe
+    80036       0       0      14500  ?              0 11:17:10 C:\Windows\System32\backgroundTaskHost.exe
+    74960       0       0       9424  ?              0 11:17:10 C:\Windows\System32\RuntimeBroker.exe
+    77860       0       0      12324  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    72488       0       0       6952  ?              0   Jun 10 C:\Windows\System32\svchost.exe
+    81040       0       0      15504  ?              0 11:19:37 C:\Windows\System32\conhost.exe
+    78748       0       0      13212  ?              0 11:19:37 C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+    70820       0       0       5284  ?              0   Jun 10 C:\Windows\System32\wbem\WMIC.exe
+    79596       0       0      14060  ?              0   Jun 10 C:\Windows\System32\wbem\WMIC.exe
+    84020       0       0      18484  ?              0   Jun 10 C:\Windows\System32\conhost.exe
+    68428       0       0       2892  ?              0   Jun 10 C:\Windows\System32\conhost.exe
+    74040       0       0       8504  ?              0   Jun 10 C:\Windows\System32\sppsvc.exe
+    84140       0       0      18604  ?              0 11:20:16 C:\Windows\System32\cmd.exe
+    76792       0       0      11256  ?              0 11:20:16 C:\Windows\System32\conhost.exe
+     1642       1    1642      16320  cons0     197609 11:20:19 /usr/bin/ps
